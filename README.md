@@ -2,4 +2,4 @@
 Good luck, students taking the exam!
 
 ### license
-Kudaken was used.
+[kudaken0/countdown](https://github.com/kudaken0/countdown) was used.
