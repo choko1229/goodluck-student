@@ -1,13 +1,13 @@
 document.addEventListener("DOMContentLoaded", function () {
     let countdown = setInterval(function(){
         const now = new Date();  // 今の日時
-        const target = new Date("2023/11/12 00:00:00");
+        const target = new Date("2024/1/13 09:30:00");
         const remainTime = target - now;  // 差分を取る（ミリ秒で返ってくる）
 
         // 指定の日時を過ぎていたら処理をしない
         if (remainTime < 0) {
             clearInterval(countdown); // カウントダウンを停止
-            document.getElementById("countdown-message").textContent = "生まれました！！"; // メッセージを表示
+            document.getElementById("countdown-message").textContent = "受験お疲れ様でした！"; // メッセージを表示
             confetti({
                 particleCount: 100,
                 spread: 70,
