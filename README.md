@@ -1,4 +1,5 @@
-# countdown
-[使用したライブラリ](https://www.kirilv.com/canvas-confetti/)
+# Good luck! "Student"
+Good luck, students taking the exam!
 
-[くだけんの誕生日カウントダウン](https://kudaken.com/new-countdown)と[例大祭カウントダウン](https://kudaken.com/reitaisai-cd)は少しコード変えただけで特に仕組みはあまり違いありません。
+### license
+Kudaken was used.
