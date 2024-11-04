@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     let countdown = setInterval(function () {
         const now = new Date();  // 今の日時
-        const target = new Date("2024/1/13 09:30:00");
+        const target = new Date("2025/1/18 09:30:00");
         const remainTime = target - now;  // 差分を取る（ミリ秒で返ってくる）
 
         // 指定の日時を過ぎていたら処理をしない
